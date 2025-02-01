@@ -1,5 +1,0 @@
-mkdir screenshots
-mv file:///C:/Users/Other/Pictures/report%20screenshots/Screenshot%202025-02-01%20185456.png screenshots/
-git add screenshots/file:///C:/Users/Other/Pictures/report%20screenshots/Screenshot%202025-02-01%20185456.png
-git commit -m "Added screenshot"
-git push origin main
