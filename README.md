@@ -45,7 +45,6 @@ The report is built using the following datasets:
 
 ## Contact
 For any inquiries or contributions, feel free to open an issue or submit a pull request.
-![Report Overview]( file:///C:/Users/Other/Pictures/report%20screenshots)
 
 
 
