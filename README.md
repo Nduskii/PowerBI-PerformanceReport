@@ -1,7 +1,9 @@
 # Power BI Performance Report – Sales, Quantity & Gross Profit Analysis
 
 [Gross Profit View](images/gp_view.png)
+
 [Quantity View](images/qn_view.png)
+
 [Sales View](images/sl_view.png)
 
 **Overview**  
