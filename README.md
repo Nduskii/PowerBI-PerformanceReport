@@ -3,13 +3,13 @@
 ## Dashboard Overview
 
 **Gross Profit View**  
-<img src="images/gp_view.png" width="900"/>
+<img src="images/gp_view.png" width="500"/>
 
 **Quantity View**  
-<img src="images/quantity_view.png" width="900"/>
+<img src="images/qn_view.png" width="900"/>
 
 **Sales View**  
-<img src="images/sales_view.png" width="900"/>
+<img src="images/sl_view.png" width="900"/>
 
 
 **Overview**  
