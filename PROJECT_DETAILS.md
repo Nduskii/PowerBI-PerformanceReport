@@ -1,4 +1,4 @@
-# Project Details: Gross Profit Performance Analysis
+# Project Details: Profitability Performance & Drivers Analysis
 
 ## Overview
 This project delivers a Power BI dashboard focused on understanding **profitability performance and its underlying drivers**.
