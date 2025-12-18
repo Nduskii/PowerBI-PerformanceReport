@@ -3,16 +3,16 @@
 ## Dashboard Overview
 
 **Gross Profit View**  
-<img src="images/gp_view.png" width="500"/>
+<img src="images/gp_view.png" width="800"/>
 
 **Quantity View**  
-<img src="images/qn_view.png" width="900"/>
+<img src="images/qn_view.png" width="800"/>
 
 **Sales View**  
-<img src="images/sl_view.png" width="900"/>
+<img src="images/sl_view.png" width="800"/>
 
 
-**Overview**  
+## Overview  
 
 Executive-level profitability analysis designed to explain **what drove Gross Profit performance**.
 The dashboard allows stakeholders to dynamically switch between **Gross Profit, Sales, and Quantity** to diagnose whether performance changes were driven by pricing, volume, or mix effects.
